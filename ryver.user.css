@@ -1,0 +1,28 @@
+/* ==UserStyle==
+@name           Winter Ryver
+@namespace      bsoyka
+@version        1.0.0
+@author         Ben Soyka
+@license        MIT
+==/UserStyle== */
+
+@-moz-document domain("brainlyus.ryver.com") {
+    .view {
+        background-image: url("https://bsoyka.is-ne.at/xTKXQR.gif") !important;
+    }
+
+    .scene-space__footer-navigation::after {
+        content: "";
+        background-image: url("https://bsoyka.is-ne.at/0Pt9eN.png") !important;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 100%;
+        opacity: 0.3;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position: absolute;
+        z-index: -1;
+    }
+}
