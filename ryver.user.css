@@ -1,13 +1,13 @@
 /* ==UserStyle==
-@name           Winter Ryver
-@namespace      bsoyka
+@name           Winter Brainly
+@namespace      LukeG294
 @version        1.0.0
-@author         Ben Soyka
+@author         Luke Graham
 @license        MIT
-@updateURL      https://raw.githubusercontent.com/bsoyka/winter/main/ryver.user.css
+@updateURL      https://raw.githubusercontent.com/LukeG294/winter/main/ryver.user.css
 ==/UserStyle== */
 
-@-moz-document domain("brainlyus.ryver.com") {
+@-moz-document domain("brainly.com") {
     .view {
         background-image: url("https://bsoyka.is-ne.at/xTKXQR.gif") !important;
     }
